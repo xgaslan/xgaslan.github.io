@@ -388,6 +388,7 @@ section {
 
 .about-container .left-about {
 	padding-right: 5rem;
+    text-align: center;
 }
 
 .about-container .left-about p {
@@ -923,8 +924,9 @@ section {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-	-ms-flex-item-align: start;
-	align-self: flex-start;
+	-ms-flex-item-align: center;
+	align-self: center;
+    justify-content: center;
 }
 
 .main-btn {

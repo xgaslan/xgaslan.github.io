@@ -426,6 +426,8 @@ section {
 
 .about-stats .progress-bars .progress-bar .prog-title {
 	text-transform: uppercase;
+    text-align: center;
+    padding: .3rem;
 	font-weight: 500;
 }
 
